@@ -95,7 +95,7 @@ html{
     display: flex;
     justify-content: center;
     align-items: center;
-    background-image: linear-gradient(rgba(0, 0, 0, 0.909), rgba(27, 27, 27, 0.882)), url(/imgs/5.jpg);
+    background-image: linear-gradient(rgba(0, 0, 0, 0.909), rgba(27, 27, 27, 0.882)), url(./imgs/5.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -340,7 +340,7 @@ html{
     padding-bottom: 70px;
     border-radius: 5px;
     border: 2px solid rgb(243, 243, 243);
-    background-image: linear-gradient(rgba(0, 0, 0, 0.863),rgba(0, 0, 0, 0.902)), url(/imgs/arthur-mazi-JmuvY9Di9BU-unsplash.jpg);
+    background-image: linear-gradient(rgba(0, 0, 0, 0.863),rgba(0, 0, 0, 0.902)), url(./imgs/arthur-mazi-JmuvY9Di9BU-unsplash.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
